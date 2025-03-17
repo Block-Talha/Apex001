@@ -3,7 +3,7 @@
 ###
 
 <img align="right" height="150" src="https://i.postimg.cc/3J2LM95L/IMG-2214.jpg"  />
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohammad-talha0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/mohammad-talha0?trk=profile-badge">Muhammad Talha</a></div>
+
               
 
 ###
